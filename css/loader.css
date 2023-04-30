@@ -1,5 +1,5 @@
-.muhib{
-    display: none;
+.main{
+    /* display: none; */
 }
 
 .loader{
@@ -44,5 +44,5 @@
 .loader>.message>h4{
     color: white;
     text-align: center;
-
+    font-family: Font0;
 }
